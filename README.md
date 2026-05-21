@@ -1,5 +1,5 @@
 # 💫 About Me:
-’m Tejas Mishra, a  AI student passionate about designing scalable backend systems, modular task and time management solutions, and expanding into full‑stack integration. With strong skills in Python, Pandas, and API troubleshooting, I focus on building reproducible datasets and clean workflows. Alongside backend architecture, I’m exploring frontend development projects to broaden my expertise. My interests include weather data analysis, real‑time monitoring systems, and innovative healthcare tech concepts, all driven by a curiosity to create impactful and reliable solutions.
+I’m Tejas Mishra, a  AI student passionate about designing scalable backend systems, modular task and time management solutions, and expanding into full‑stack integration. With strong skills in Python, Pandas, and API troubleshooting, I focus on building reproducible datasets and clean workflows. Alongside backend architecture, I’m exploring frontend development projects to broaden my expertise. My interests include weather data analysis, real‑time monitoring systems, and innovative healthcare tech concepts, all driven by a curiosity to create impactful and reliable solutions.
 
 
 ## 🌐 Socials:
